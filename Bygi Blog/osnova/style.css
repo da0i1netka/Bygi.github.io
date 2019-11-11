@@ -1,0 +1,39 @@
+body
+{
+	font-family: 'Manjari', sans-serif;
+	width: 100%;
+	height: 100vh;
+    background: #1F153B;
+}
+
+#name
+{
+font-family: 'Roboto', sans-serif;
+font-weight: 900;
+color: white;
+font-size: 430%;
+margin-right: 17%;
+}
+
+#name1
+{
+font-family: 'Manjari', sans-serif;
+font-weight: 400;
+color: white;
+font-size: 350%;
+margin-left: 1%;
+}
+
+.links
+{
+	font-family: 'Manjari', sans-serif;
+    font-weight: 100;
+	color: white;
+	font-size: 350%;
+	margin-left: 10%;
+	text-decoration: none;
+}
+#linkss
+{
+	margin-left: %;
+}

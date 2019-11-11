@@ -1,0 +1,71 @@
+body 
+{
+  font-family: 'Manjari', sans-serif;
+  background: #190230;
+}
+
+#late
+{
+  color: white;
+  font-size: 525%;
+  font-weight: 400;
+  margin-left: 41%;
+  margin-top: 50%;
+  animation: rainbow 3s infinite;
+}
+
+@keyframes rainbow
+{
+  0% {color: #C0392B; text-shadow: 0 0 40px #C0392B;}
+  15% {color: #6C3483; text-shadow: 0 0 40px #6C3483;}
+  25% {color: #2980B9; text-shadow: 0 0 40px #2980B9;}
+  35% {color: #17A589; text-shadow: 0 0 40px #17A589;}
+  50% {color: #27AE60; text-shadow: 0 0 40px #27AE60;}
+  65% {color: #2E4053; text-shadow: 0 0 40px #2E4053;}
+  75% {color: #F1C40F; text-shadow: 0 0 40px #F1C40F;}
+  100% {color: #D35400; text-shadow: 0 0 40px #D35400;}
+}
+
+.videos
+{
+  margin-left: 3%;
+  margin-top: 3%;
+  box-shadow: 0 0 10px #000, 0 0 20px #000;
+}
+
+#name
+{
+font-family: 'Roboto', sans-serif;
+font-weight: 900;
+color: #68FF00;
+font-size: 430%;
+margin-right: 17%;
+text-shadow:  0 0 40px #00ff00, 0 0 50px #00ff00, 0 0 20px #00ff00;
+margin-left: 2%;
+}
+
+#name1
+{
+font-family: 'Manjari', sans-serif;
+font-weight: 400;
+color:  #fe9200 ;
+font-size: 350%;
+margin-left: 2.3%;
+text-shadow: 0 0 40px  #fe9200 , 0 0 40px  #fe9200;
+}
+
+.links
+{
+  font-family: 'Manjari', sans-serif;
+    font-weight: 100;
+  color: white;
+  font-size: 350%;
+  margin-left: 115px;
+  text-decoration: none;
+}
+
+.links:hover
+{
+  text-shadow: 0 0 20px #C500FF, 0 0 30px #C500FF, 0 0 40px #C500FF, 0 0 20px #C500FF;
+  color: #C500FF;
+}

@@ -1,0 +1,96 @@
+body
+{
+	font-family: 'Manjari', sans-serif;
+	width: 100%;
+	height: 100vh;
+    background: #190230;
+}
+
+#name
+{
+font-family: 'Roboto', sans-serif;
+font-weight: 900;
+color: #68FF00;
+font-size: 430%;
+margin-right: 17%;
+text-shadow:  0 0 40px #00ff00, 0 0 50px #00ff00, 0 0 20px #00ff00;
+}
+
+#name1
+{
+font-family: 'Manjari', sans-serif;
+font-weight: 400;
+color: #006CFF;
+font-size: 350%;
+margin-left: 1%;
+text-shadow: 0 0 40px #006CFF, 0 0 40px #006CFF;
+}
+
+.links
+{
+	font-family: 'Manjari', sans-serif;
+    font-weight: 100;
+	color: white;
+	font-size: 350%;
+	margin-left: 115px;
+	text-decoration: none;
+}
+
+#welcomee
+{
+	color: #F3F3F3;
+	text-decoration: none;
+	font-size: 540%;
+	font-weight: 900;
+    margin-left: 37%;
+}
+#hellobold
+{
+	color: white;
+	text-decoration: none;
+	font-size: 180%;
+	font-weight: 400;
+    margin-left: 36%;
+	margin-top: 1%;
+}
+#about
+{
+	color: white;
+	text-decoration: none;
+	font-size: 180%;
+	font-weight: 100;
+	text-align: center;
+	margin-top: 0;
+}
+#image
+{
+	width: 20%;
+	height: 60vh;
+	margin-left: 80%;
+	margin-top: 40vh;
+}
+#info
+{
+	margin-top: 50vh;
+}
+
+.links:hover
+{
+	text-shadow: 0 0 20px #C500FF, 0 0 30px #C500FF, 0 0 40px #C500FF, 0 0 20px #C500FF;
+	color: #C500FF;
+}
+
+.foot-text
+{
+	color: #C9C9C9;
+	font-size: 150%;
+	opacity: 70%;
+}
+
+/*footer
+{
+	opacity: 50%;
+	background: #3F0C63;
+	height: 20vh;
+	width:100%;
+}
